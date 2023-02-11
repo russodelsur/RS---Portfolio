@@ -1,0 +1,29 @@
+footer {
+    flex-grow: 1;
+    display: flex;
+    width: 100%;
+    position: relative;
+    background:  rgb(39, 39, 39);
+    bottom: 0;
+}
+.social {
+    flex: 2 1 auto;
+    position: relative;
+}
+p {
+    margin: auto;
+    padding: 1rem;
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+    flex-grow: 4;
+    width: 20rem;
+}
+
+a {
+    margin: 0;
+    padding: 1rem;
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+}

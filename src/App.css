@@ -1,0 +1,16 @@
+/* Including my fonts here */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gafata&display=swap');
+
+*{
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; 
+font-family: 'Abril Fatface', cursive; */
+font-family: 'Gafata', sans-serif;
+
+}
+.App {
+  text-align: center;
+}
